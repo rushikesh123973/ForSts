@@ -8,6 +8,7 @@ public class ForGithhubApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ForGithhubApplication.class, args);
+		System.out.println("WELCOME");
 	}
 
 }
